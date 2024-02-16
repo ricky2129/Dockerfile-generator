@@ -1,4 +1,4 @@
-# Dockerfile-generator
+# Dockerfile-Generator
 The Dockerfile Generator is a Python script designed to simplify the process of creating Dockerfiles for your containerized applications. By specifying parameters such as the base image, commands, ports, environment variables, and more, you can quickly generate a Dockerfile tailored to your needs.
 
 ## Features
@@ -35,9 +35,6 @@ python dockerfile-generator.py --base ubuntu:latest --cmd "echo Hello, World!" -
 - copy: Files or directories to copy (semicolon-separated 'src:dest' pairs)
 - volume: Volumes to mount (semicolon-separated paths)
 - label: Labels to apply (semicolon-separated KEY=VALUE pairs)
-
-
-
 
 ## Practical Applications
 This script is particularly useful for developers who:
