@@ -14,7 +14,6 @@ The Dockerfile Generator is a Python script designed to simplify the process of 
 * **Volume Mounting**: Specify volumes to be mounted inside the container.
 * **Labeling**: Add metadata labels to your Docker image.
 
-
 ## Usage
 
 To use this script, you will need Python installed on your system. The script accepts command-line arguments for each Dockerfile component. Here's a basic example of how to use it:
