@@ -43,4 +43,4 @@ This script is particularly useful for developers who:
 
 
 ## Contribution
-Contributions to enhance the script or add new features are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+Contributions to enhance the script or add new features are welcome.. Please feel free to fork the repository, make your changes, and submit a pull request.
